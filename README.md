@@ -13,6 +13,7 @@ Use NetBeans to open the project.
 ## Authors
 
 * **Pablo Perdomo Falcón** - [Pabllopf](https://github.com/pabllopf)
+* **Raul Lozano** - [RaulLozanoPonce](https://github.com/RaulLozanoPonce)
 
 ## License
 
