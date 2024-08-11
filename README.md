@@ -1,8 +1,6 @@
-# ZipWrap
-
 ![image](https://github.com/user-attachments/assets/3158217d-32dd-4242-8ead-481be081f180)
 
-Program to compress files using Java 8 and Java Swing. 
+> Program to compress files using Java 8 and Java Swing. 
 
 ## Getting Started
 
